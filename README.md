@@ -1,4 +1,4 @@
-# Cycle Lending System for College
+# PedalHub : Cycle Lending System for College
 
 The Cycle Lending System for College is a web-based application developed to facilitate the lending process of cycles within a college. This system allows for the lending of cycles, creation of student IDs, management of accounts, order taking, and updating the status of lent cycles.
 
